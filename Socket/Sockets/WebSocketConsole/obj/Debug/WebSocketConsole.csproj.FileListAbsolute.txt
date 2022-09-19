@@ -1,0 +1,7 @@
+D:\Zenen\MEGA\------ Trabajo------\PASE\Proyectos\Socket\Sockets\WebSocketConsole\bin\Debug\WebSocketConsole.exe.config
+D:\Zenen\MEGA\------ Trabajo------\PASE\Proyectos\Socket\Sockets\WebSocketConsole\bin\Debug\WebSocketConsole.exe
+D:\Zenen\MEGA\------ Trabajo------\PASE\Proyectos\Socket\Sockets\WebSocketConsole\bin\Debug\WebSocketConsole.pdb
+D:\Zenen\MEGA\------ Trabajo------\PASE\Proyectos\Socket\Sockets\WebSocketConsole\obj\Debug\WebSocketConsole.csprojAssemblyReference.cache
+D:\Zenen\MEGA\------ Trabajo------\PASE\Proyectos\Socket\Sockets\WebSocketConsole\obj\Debug\WebSocketConsole.csproj.CoreCompileInputs.cache
+D:\Zenen\MEGA\------ Trabajo------\PASE\Proyectos\Socket\Sockets\WebSocketConsole\obj\Debug\WebSocketConsole.exe
+D:\Zenen\MEGA\------ Trabajo------\PASE\Proyectos\Socket\Sockets\WebSocketConsole\obj\Debug\WebSocketConsole.pdb

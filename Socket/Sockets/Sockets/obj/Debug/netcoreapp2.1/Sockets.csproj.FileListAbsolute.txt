@@ -1,0 +1,14 @@
+D:\Zenen\MEGA\------ Trabajo------\PASE\Proyectos\Socket\Sockets\Sockets\bin\Debug\netcoreapp2.1\Sockets.deps.json
+D:\Zenen\MEGA\------ Trabajo------\PASE\Proyectos\Socket\Sockets\Sockets\bin\Debug\netcoreapp2.1\Sockets.runtimeconfig.json
+D:\Zenen\MEGA\------ Trabajo------\PASE\Proyectos\Socket\Sockets\Sockets\bin\Debug\netcoreapp2.1\Sockets.runtimeconfig.dev.json
+D:\Zenen\MEGA\------ Trabajo------\PASE\Proyectos\Socket\Sockets\Sockets\bin\Debug\netcoreapp2.1\Sockets.dll
+D:\Zenen\MEGA\------ Trabajo------\PASE\Proyectos\Socket\Sockets\Sockets\bin\Debug\netcoreapp2.1\Sockets.pdb
+D:\Zenen\MEGA\------ Trabajo------\PASE\Proyectos\Socket\Sockets\Sockets\obj\Debug\netcoreapp2.1\Sockets.csprojAssemblyReference.cache
+D:\Zenen\MEGA\------ Trabajo------\PASE\Proyectos\Socket\Sockets\Sockets\obj\Debug\netcoreapp2.1\Sockets.csproj.CoreCompileInputs.cache
+D:\Zenen\MEGA\------ Trabajo------\PASE\Proyectos\Socket\Sockets\Sockets\obj\Debug\netcoreapp2.1\Sockets.RazorAssemblyInfo.cache
+D:\Zenen\MEGA\------ Trabajo------\PASE\Proyectos\Socket\Sockets\Sockets\obj\Debug\netcoreapp2.1\Sockets.RazorAssemblyInfo.cs
+D:\Zenen\MEGA\------ Trabajo------\PASE\Proyectos\Socket\Sockets\Sockets\obj\Debug\netcoreapp2.1\Sockets.AssemblyInfoInputs.cache
+D:\Zenen\MEGA\------ Trabajo------\PASE\Proyectos\Socket\Sockets\Sockets\obj\Debug\netcoreapp2.1\Sockets.AssemblyInfo.cs
+D:\Zenen\MEGA\------ Trabajo------\PASE\Proyectos\Socket\Sockets\Sockets\obj\Debug\netcoreapp2.1\Sockets.RazorTargetAssemblyInfo.cache
+D:\Zenen\MEGA\------ Trabajo------\PASE\Proyectos\Socket\Sockets\Sockets\obj\Debug\netcoreapp2.1\Sockets.dll
+D:\Zenen\MEGA\------ Trabajo------\PASE\Proyectos\Socket\Sockets\Sockets\obj\Debug\netcoreapp2.1\Sockets.pdb
